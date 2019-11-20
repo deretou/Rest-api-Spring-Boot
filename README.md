@@ -26,13 +26,13 @@ Documentation is one important aspect for any application. Especially for REST A
       <groupId>io.springfox</groupId>
       <artifactId>springfox-swagger-ui</artifactId>
       <version>2.9.2</version>
-    </dependency>
-    <dependency>
+</dependency>
+<dependency>
       <groupId>io.springfox</groupId>
       <artifactId>springfox-swagger2</artifactId>
       <version>2.9.2</version>
       <scope>compile</scope>
-    </dependency>
+</dependency>
 ```
 ## Unit Test
 
