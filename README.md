@@ -19,7 +19,7 @@ Spring Security is a framework providing an almost declarative security services
 ```
 
 ##  Swagger
-Documentation is one important aspect for any application. Especially for REST API, good documentation is very important — even instrumental for external adoption or partners acquisitions. The documentation must be up-to-date, every change in the API should be simultaneously described in the reference documentation. Like good code, good documentation is difficult and time consuming to write. Accomplishing this manually is (very) tedious, and as developer we love to automate it.
+Documentation is one important aspect for any application. Especially for REST API, good documentation is very important (even instrumental for external adoption or partners acquisitions). The documentation must be up-to-date, every change in the API should be simultaneously described in the reference documentation. Like good code, good documentation is difficult and time consuming to write. Accomplishing this manually is (very) tedious, and as developer we love to automate it.
 **Swagger** is a specification for documenting REST API. It specifies the format (URL, method, and representation) to describe REST web services.
 ```
 <dependency>
