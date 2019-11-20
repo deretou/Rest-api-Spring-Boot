@@ -36,6 +36,96 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.DogControllerIntegrationTest">
+    <configuration name="DogControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DogRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bootstrap.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bootstrap.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bootstrap.web.DogControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogControllerIntegrationTest.getAllDogs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DogRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bootstrap.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bootstrap.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bootstrap.web.DogControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="getAllDogs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogControllerIntegrationTest.getBreedByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DogRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bootstrap.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bootstrap.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bootstrap.web.DogControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="getBreedByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogControllerIntegrationTest.getDogBreeds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DogRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bootstrap.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bootstrap.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bootstrap.web.DogControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="getDogBreeds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogControllerIntegrationTest.getDogNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DogRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.bootstrap.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.bootstrap.web" />
+      <option name="MAIN_CLASS_NAME" value="com.example.bootstrap.web.DogControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="getDogNames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DogControllerIntegrationTest" />
+        <item itemvalue="JUnit.DogControllerIntegrationTest.getDogNames" />
+        <item itemvalue="JUnit.DogControllerIntegrationTest.getBreedByID" />
+        <item itemvalue="JUnit.DogControllerIntegrationTest.getDogBreeds" />
+        <item itemvalue="JUnit.DogControllerIntegrationTest.getAllDogs" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
