@@ -1,1 +1,3 @@
+com\example\bootstrap\web\DogControllerIntegrationTest.class
+com\example\bootstrap\web\DogControllerUnitTest.class
 com\example\bootstrap\BootstrapApplicationTests.class

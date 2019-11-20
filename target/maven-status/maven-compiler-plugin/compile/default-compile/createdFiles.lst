@@ -1,6 +1,8 @@
 com\example\bootstrap\web\DogController.class
 com\example\bootstrap\service\DogServiceImpl.class
+com\example\bootstrap\config\SwaggerConfig.class
 com\example\bootstrap\service\DogService.class
+com\example\bootstrap\config\SpringSecurityConfig.class
 com\example\bootstrap\entity\Dog.class
 com\example\bootstrap\BootstrapApplication.class
 com\example\bootstrap\repository\DogRepository.class
